@@ -85,7 +85,7 @@ olist_sql_analysis/
 1. Клонируй репозиторий:
 
    ```bash
-   git clone https://github.com/Leekor-byte/olist_sql_analysis.git
+   git clone https://github.com/Leekor-byte/olist-sql-analysis.git
    cd olist_sql_analysis
    ```
 
